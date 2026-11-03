@@ -5,8 +5,7 @@
 
 ---
 
-## 1. What is this project?
-
+## 1. What is this project?
 **B2B Marketplace** is a web-based business-to-business platform designed to connect buyers, suppliers, manufacturers, vendors, and service providers through a centralized digital marketplace.
 
 Unlike traditional e-commerce platforms that primarily focus on individual consumers, this platform focuses on business requirements, bulk procurement, supplier discovery, and professional business services.
